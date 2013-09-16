@@ -11,7 +11,6 @@ This App includes sample code for the following features:
 * MPMusicPlayerController 
 * MPVolumeView
 
-
 ## Screenshots
 
 ![Screenshot](https://raw.github.com/jsanchezsierra/AudioLab/master/screenshots/screenshotLow1.jpg)
